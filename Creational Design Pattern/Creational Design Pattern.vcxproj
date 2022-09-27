@@ -132,12 +132,14 @@
     <ClCompile Include="Creational Design Pattern.cpp" />
     <ClCompile Include="FactoryMethod.cpp" />
     <ClCompile Include="Prototype.cpp" />
+    <ClCompile Include="SingletonPattern.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AbstractFactory.h" />
     <ClInclude Include="Builder.h" />
     <ClInclude Include="FactoryMethod.h" />
     <ClInclude Include="Prototype.h" />
+    <ClInclude Include="SingletonPattern.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
