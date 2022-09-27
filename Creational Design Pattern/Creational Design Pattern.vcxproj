@@ -128,11 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AbstractFactory.cpp" />
+    <ClCompile Include="Builder.cpp" />
     <ClCompile Include="Creational Design Pattern.cpp" />
     <ClCompile Include="FactoryMethod.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AbstractFactory.h" />
+    <ClInclude Include="Builder.h" />
     <ClInclude Include="FactoryMethod.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
